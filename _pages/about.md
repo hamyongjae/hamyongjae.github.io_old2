@@ -72,11 +72,3 @@ author_profile: true
     https://user-images.githubusercontent.com/19748922/49606458-c8ae8c00-f9d6-11e8-92cf-dd08f181e49f.jpg
 {% endcapture %}
 {% include gallery images=images caption="Photo Of Yongjae" cols=2 %}
-<!--
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
