@@ -12,19 +12,15 @@ author_profile: true
 
 
 
-
-
-
-
 ## Personel Information
 
-Name : 함용재
-Birth : 1993 - 01 - 12
-Phone : +82 10 6484 2434
-E-mail : bbb12388@gmail.com
-광운대학교 전자통신공학과 학사 졸업
-4차산업혁명 선도인력양성 교육과정 '블록체인 기반 핀테크 전문가 과정' 수료
-멀티캠퍼스 멋쟁이사자처럼 종합프로젝트부문 프로젝트 우승
+- Name : 함용재
+- Birth : 1993 - 01 - 12
+- Phone : +82 10 6484 2434
+- E-mail : bbb12388@gmail.com
+- 광운대학교 전자통신공학과 학사 졸업
+- 4차산업혁명 선도인력양성 교육과정 '블록체인 기반 핀테크 전문가 과정' 수료
+- 멀티캠퍼스 멋쟁이사자처럼 종합프로젝트부문 프로젝트 우승
 
 
 
@@ -32,16 +28,16 @@ E-mail : bbb12388@gmail.com
 
 ## What I can do
 
-JAVA ( Spring Framework , Mybatis)
-C++
-Python
-HTML / CSS
-JavaScript (ES6) / Node.JS
-Jquery
-React
-Oracle / MySQL / MongoDB / MariaDB
-Linux
-Solidity ( Etherium Development ) 
+- JAVA ( Spring Framework , Mybatis)
+- C++
+- Python
+- HTML / CSS
+- JavaScript (ES6) / Node.JS
+- Jquery
+- React
+- Oracle / MySQL / MongoDB / MariaDB
+- Linux
+- Solidity ( Etherium Development ) 
 
 
 
